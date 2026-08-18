@@ -19,7 +19,7 @@ export function HowItWorks() {
   ];
 
   return (
-    <section className="py-24 bg-brand-900 text-white relative overflow-hidden">
+    <section id="help" className="py-24 bg-brand-900 text-white relative overflow-hidden">
       <div className="absolute top-0 left-0 w-full h-full opacity-10 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-brand-400 via-brand-900 to-brand-900"></div>
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

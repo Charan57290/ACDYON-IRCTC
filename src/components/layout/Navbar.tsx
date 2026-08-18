@@ -52,7 +52,7 @@ export function Navbar() {
             <div className="bg-brand-600 p-2 rounded-lg">
               <Train className="h-5 w-5 text-white" />
             </div>
-            <span className="font-bold text-xl text-brand-900 tracking-tight">TrackSync</span>
+            <span className="font-bold text-xl text-brand-900 tracking-tight">IRCTC NextGen</span>
           </div>
 
           {/* Desktop Navigation */}

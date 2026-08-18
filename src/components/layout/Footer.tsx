@@ -11,7 +11,7 @@ export function Footer() {
               <div className="bg-brand-800 p-2 rounded-lg">
                 <Train className="h-5 w-5 text-white" />
               </div>
-              <span className="font-bold text-xl text-white tracking-tight">TrackSync</span>
+              <span className="font-bold text-xl text-white tracking-tight">IRCTC NextGen</span>
             </div>
             <p className="text-brand-300 max-w-sm mb-6 leading-relaxed">
               A premium redesign concept focusing on clarity, speed, and usability for train travel planning.
@@ -47,7 +47,7 @@ export function Footer() {
 
         <div className="pt-8 border-t border-brand-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm">
-            © {new Date().getFullYear()} TrackSync Design Concept. All rights reserved.
+            © {new Date().getFullYear()} IRCTC NextGen Design Concept. All rights reserved.
           </p>
           <p className="text-sm flex items-center gap-1">
             Built with <Heart className="h-4 w-4 text-red-500 fill-current" /> for the Build It Like You Mean It assignment.

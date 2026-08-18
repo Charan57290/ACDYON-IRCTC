@@ -201,7 +201,7 @@ export function HelpPage() {
               <a href="#" className="flex flex-col items-center p-6 bg-white/10 hover:bg-white/20 backdrop-blur-md rounded-2xl transition-colors border border-white/20">
                 <Mail className="w-8 h-8 mb-3 text-brand-200" />
                 <span className="font-semibold">Email Support</span>
-                <span className="text-sm text-brand-200 mt-1">support@tracksync.com</span>
+                <span className="text-sm text-brand-200 mt-1">support@irctc.co.in</span>
               </a>
             </div>
           </div>

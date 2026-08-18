@@ -141,7 +141,7 @@ export function HelpPage() {
           </div>
           <div className="space-y-6 min-h-[400px]">
             <AnimatePresence mode="popLayout">
-              {filteredFaqs.map((faq, idx) => (
+              {filteredFaqs.map((faq) => (
                 <motion.div 
                   key={faq.q}
                   layout

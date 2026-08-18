@@ -88,7 +88,7 @@ export function HelpPage() {
             <input 
               type="text" 
               placeholder="Search for articles, guides, or FAQs..." 
-              className="w-full bg-white/80 backdrop-blur-md border border-white/60 focus:border-brand-300 shadow-premium rounded-2xl py-5 pl-16 pr-6 text-brand-950 font-medium focus:outline-none focus:ring-4 focus:ring-brand-500/20 transition-all text-lg"
+              className="w-full bg-white/80 backdrop-blur-md border border-white/60 focus:border-brand-300 shadow-premium rounded-2xl py-5 pl-16 pr-32 text-brand-950 font-medium focus:outline-none focus:ring-4 focus:ring-brand-500/20 transition-all text-lg"
             />
             <button className="absolute right-3 top-1/2 -translate-y-1/2 bg-brand-600 hover:bg-brand-700 text-white px-8 py-3 rounded-xl font-semibold transition-colors shadow-subtle hover:shadow-md">
               Search
